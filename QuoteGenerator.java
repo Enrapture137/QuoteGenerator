@@ -1,5 +1,4 @@
-      //import two utilities needed.
-import java.util.Scanner;
+      //import utilities needed
 import java.util.Random;
 
 public class QuoteGenerator
